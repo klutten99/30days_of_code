@@ -1,0 +1,1 @@
+This is all my solutions for my 30 days of coding.
